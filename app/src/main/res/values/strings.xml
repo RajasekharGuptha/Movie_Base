@@ -4,4 +4,5 @@
     <string name="base_url">https://api.themoviedb.org/3</string>
     <string name="poster">poster</string>
     <string name="image_base_string">image.tmdb.org/t/p/w185</string>
+    <string name="search_menu_name">search</string>
 </resources>
